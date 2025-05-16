@@ -32,5 +32,3 @@ Infine però ho scelto (per il momento) Quartz v4 caricando il tutto su github (
 Per il momento aspetterò un'alternativa valida e magari utile, non voglio spendere, anche se poco, per Obsidian Publishing, non voglio che il mio sito sia completamente online, o per meglio dire, non voglio che sia facilmente raggiungibile da estranei, ma al contempo voglio usare il dominio "jickolino.com" e che sia facile raggiungerlo per me o per quei pochi a cui darà il link. 
 
 p.s Il sito è comunque pubblico ma lo gestisco io.
-
-test
