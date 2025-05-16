@@ -27,11 +27,8 @@ Ho imparato ad usare alcune delle funzionalità del programma e di alcuni plugin
 
 ## Ora
 Il perchè abbia deciso di usare [[Obsidian]] è un mistero, ma inizialmente ho cercato diversi modi per pubblicare localmente delle pagine, usando i miei servizi NAS e Cloudflare, hugo, Jekyll, il plugin Digital Garden, ma tutti pubblicavano su github, cosa che volevo non ci fosse, volevo usare il mio dominio (che pago 12 sbleuri l'anno).
-Infine ho scelto (per il momento) Quartz v4 che, mi permette di fare self-hosting senza troppi problemi. Lo so lo so, roba complicata se non si conosce questo mondo.
+Infine però ho scelto (per il momento) Quartz v4 caricando il tutto su github (mi sono arreso).
 
 Per il momento aspetterò un'alternativa valida e magari utile, non voglio spendere, anche se poco, per Obsidian Publishing, non voglio che il mio sito sia completamente online, o per meglio dire, non voglio che sia facilmente raggiungibile da estranei, ma al contempo voglio usare il dominio "jickolino.com" e che sia facile raggiungerlo per me o per quei pochi a cui darà il link. 
 
 p.s Il sito è comunque pubblico ma lo gestisco io.
-
-
-piccolo cambio
