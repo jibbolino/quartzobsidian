@@ -2,6 +2,7 @@
 Created in date: 2025-05-13T12:48:00
 title: Origini
 Modified in date: 2025-05-14T10:37:00
+draft: false
 ---
 <font color="#de7802">TLDR</font>: Nato come sito custom si è trasformato in un progetto via obsidian e pubblicato in self-hosting usando Quartz v4.
 ## Idea
@@ -10,7 +11,7 @@ Inizialmente l'idea era quella di fare un sito, [[Neocities]][­](https://neocit
 
 ![[Neocities.png]]
 
-Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev)
+Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev) <img src="https://dimden.dev/images/dimden.gif" width="100" height="100">
 
 Successivamente il progetto ha preso forma in un sito semplice, ma ancora lontano dalla voglia di pubblicazione, troppo Chat GPT fa male alla testa. Sono solito rimandare molto progetti per via della mia voglia di perfezionare il lavoro che poi vorrò esporre.
 
