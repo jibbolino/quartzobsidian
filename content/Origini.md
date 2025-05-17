@@ -7,10 +7,8 @@ draft: false
 <font color="#de7802">TLDR</font>: Nato come sito custom si è trasformato in un progetto via obsidian e pubblicato in self-hosting usando Quartz v4.
 ## Idea
 
-Inizialmente l'idea era quella di fare un sito, [[Neocities]][­](https://neocities.org/) una piattaforma gratuita che permette di creare il proprio static website, permettendo libertà assoluta alla persona, imitando quello che erano i siti nei primi 2000, colorati, creativi e con tante immagini e con piccole gif da tutte le parti. 
-![[Neocities.png|200]]
-
-Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev) <img src="https://dimden.dev/images/dimden.gif" width="50" height="50">
+Inizialmente l'idea era quella di fare un sito, [[Neocities]][­](https://neocities.org/)![[Neocities_Logo.svg.png|30]] una piattaforma gratuita che permette di creare il proprio static website, permettendo libertà assoluta alla persona, imitando quello che erano i siti nei primi 2000, colorati, creativi e con tante immagini e con piccole gif da tutte le parti.
+Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev)<img src="https://dimden.dev/images/dimden.gif" width="50" height="50">
 
 Successivamente il progetto ha preso forma in un sito semplice, ma ancora lontano dalla voglia di pubblicazione, troppo Chat GPT fa male alla testa. Sono solito rimandare molto progetti per via della mia voglia di perfezionare il lavoro che poi vorrò esporre.
 
