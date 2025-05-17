@@ -11,7 +11,7 @@ Inizialmente l'idea era quella di fare un sito, [[Neocities]][­](https://neocit
 
 ![[Neocities.png]]
 
-Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev) <img src="https://dimden.dev/images/dimden.gif" width="100" height="100">
+Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev) <img src="https://dimden.dev/images/dimden.gif" width="50" height="50">
 
 Successivamente il progetto ha preso forma in un sito semplice, ma ancora lontano dalla voglia di pubblicazione, troppo Chat GPT fa male alla testa. Sono solito rimandare molto progetti per via della mia voglia di perfezionare il lavoro che poi vorrò esporre.
 
