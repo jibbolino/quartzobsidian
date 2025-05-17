@@ -23,4 +23,4 @@ Negli anni ho sviluppato una passione sfrenata per i videogiochi, ma non nella s
 Nella lista a lato, sono presenti approfondimenti e aggiornamenti su giochi e altri piccoli interessi, tra cui per esempio i miei gundam, stampe 3d o manga
 Aggiornerò pian piano quando avrò voglia o quando riesco.
 
-Le varie pagine saranne scritte per quanto possibile in italiano comprensibile, ma userò spesso inglesismi e altri termini che potrebbero essere confusi, vedrò se mettere una "legenda" o vocabolario per voi [poveracci](https://www.treccani.it/vocabolario/scherzare/).
+Le varie pagine saranno scritte per quanto possibile in italiano comprensibile, ma userò spesso inglesismi e altri termini che potrebbero essere confusi, vedrò se mettere una "legenda" o vocabolario per voi [poveracci](https://www.treccani.it/vocabolario/scherzare/).
