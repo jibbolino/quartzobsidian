@@ -1,3 +1,13 @@
+---
+draft: true
+title: The Pathless
+Created in date: 
+Modified in date: 
+tags:
+  - Games
+  - review
+---
+
 ## Premessa
 
 Dopo un discreto successo ottenuto nel 2016 con ABZÛ, il team di Giant Squid nel 2020 rilascia The Pathless, un'avventura action, nelle vesti di un'arciera che assieme ad un'aquila dovranno riportare l'equilibrio in un'isola intrisa di magia spiriti naturali intrappolati da un potere corruttivo.

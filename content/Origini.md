@@ -8,6 +8,7 @@ draft: false
 ## Idea
 
 Inizialmente l'idea era quella di fare un sito, [[Neocities]][­](https://neocities.org/) una piattaforma gratuita che permette di creare il proprio static website, permettendo libertà assoluta alla persona, imitando quello che erano i siti nei primi 2000, colorati, creativi e con tante immagini e con piccole gif da tutte le parti.
+
 Uno dei miei preferiti e da cui ho preso ispirazione è [Dimden](https://dimden.dev)
 <img src="https://dimden.dev/images/dimden.gif" width="50" height="50">
 
@@ -20,7 +21,7 @@ Non sono un artista, ma forse non ho ancora imparato ad accontentarmi, mi stanco
 Nel tempo ho accantonato il progetto non in definitiva, per via di lavoro e poca voglia nel mettermi sul progetto, anche forse per via del dover riprendere HTML, Javascript e css (che purtroppo ricordo poco) nonostante il diploma come perito informatico.
 Si può notare come la parte estetica del titolo "jickolino" nella home page c'entri poco, era in combo con l'estetica del sito originale.
 
-Da qualche anno a questa parte ho iniziato ad usare [[Obsidian]], un programma di note taking (mi piace dirlo in inglese) che permetteva diverse possibilità di utilizzo.
+Da qualche anno a questa parte ho iniziato ad usare [Obsidian](https://obsidian.md/), un programma di note taking (mi piace dirlo in inglese) che permetteva diverse possibilità di utilizzo.
 
 Ho imparato ad usare alcune delle funzionalità del programma e di alcuni plugin messi a disposizione dalla comunità, ovviamente non lo userò mai come vorrei anche per via della curva di apprendimento che richiede, se si vuole [masterare]() il tutto.
 

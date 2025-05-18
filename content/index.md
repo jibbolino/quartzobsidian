@@ -2,6 +2,7 @@
 Created in date: 2025-05-06T12:15:00
 Modified in date: 2025-05-06T19:30:00
 title: jickolino
+draft: false
 ---
 ![[title_jickolino.png|700]]
 

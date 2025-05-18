@@ -1,10 +1,16 @@
 ---
 Created in date: 2025-05-08
 title: Games
+draft: false
+tags:
+  - Games
 ---
-Qui è possibile leggere alcune MINI recensioni di videogiochi che ho amato e che secondo me, meritano di essere scoperti e giocati.
+<font color="#de7802">TLDR</font>: troverete mini recensioni con idee personali e gusti, il tutto per far conoscere giochi.
 
-Sono mini recensioni, pertanto non saranno contorte o approfondite, ma servono per spiegare e dare una visione di quello che il titolo offre e come si presenta.
+In questa sezione è possibile leggere alcune MINI recensioni di videogiochi che ho amato e che secondo me, meritano di essere scoperti e giocati.
+
+Sono mini recensioni, pertanto non saranno contorte o approfondite, ma servono per spiegare e dare una visione di quello che il titolo offre e come si presenta. C'è sempre la possibilità che il modo con cui gestisco e scrivo questi testi possa variare, ora hanno una struttura, in futuro chissà.
+
 I vari giochi sono segnati sulla sinistra, divisi per tipologia generale.
 
 <span style="background:#ff4d4f">IMPORTANTE!</span>
